@@ -1,0 +1,9 @@
+                                    Metric  Value
+                                 Precision   0.67
+                                    Recall   0.66
+                                  Accuracy   0.67
+                                  F1 Score   0.63
+               correct_positive_percentage  83.01
+               correct_negative_percentage  89.90
+positive_classified_as_negative_percentage   4.51
+negative_classified_as_positive_percentage   6.40
